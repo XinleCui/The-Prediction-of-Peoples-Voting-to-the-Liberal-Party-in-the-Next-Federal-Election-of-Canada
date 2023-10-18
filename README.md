@@ -1,5 +1,5 @@
 # The-Prediction-of-People-s-Voting-to-the-Liberal-Party-in-the-Next-Federal-Election-of-Canada
-Title: The Prediction of People's Voting to the Liberal Party in the Next Federal Election of Canada
+Title: The Prediction of People's Voting for the Liberal Party in the Next Federal Election of Canada
 author: Xinle Cui, Guanhao Dong, Penny Hu"
 date: November 24, 2022
 subtitle: STA304 - Assignment 2
